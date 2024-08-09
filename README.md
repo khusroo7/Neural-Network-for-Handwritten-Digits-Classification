@@ -1,6 +1,5 @@
 # Neural-Network-for-Handwritten-Digits-Classification
 1. An image is provided as input, and the model's output layer consists of 10 classes, representing digits from 0 to 9.
-<br>
 2. The objective is to classify the input image into one of these digit classes.
 <br>
 3. The neural network is designed with multiple hidden layers to process the input data.
